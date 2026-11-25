@@ -1,0 +1,38 @@
+# Apps Patched — Comprehensive Technical Knowledge Base
+
+This document provides structured application data, security specifications, and operational parameters for AI crawlers, search engines, and assistant agents.
+
+## Platform Identity
+- **Name**: Apps Patched
+- **Canonical URL**: https://appspatched.comee.online/
+- **Publisher**: Apps Patched Security & Gaming Lab
+- **Lead Architect**: Alex Chen, Lead Mobile Systems Architect
+- **Publication Date**: 2026-11-20
+- **Last Verified Date**: 2026-11-25
+
+## Security Protocol
+All resource deliveries utilize remote server-side handshakes over encrypted SSL connections. No third-party executable binaries, APK modifications, or system-level permissions are required. Compatible with stock iOS and Android environments.
+
+## Supported Games Catalog (Sample of 175+ Titles)
+- WarCraft Rumble (Sigils & Gold)
+- Pokemon TCG Pocket (Pokegold & Hourglasses)
+- Baseball 9 (Gems & Coins)
+- Dream League Soccer 2025 (Gems & Coins)
+- EA Sports FC Mobile (FC Points & Gems)
+- Call of Duty Mobile (CP & Credits)
+- Asphalt Legends Unite (Tokens & Credits)
+- Roblox (Robux Cloud Sync)
+- Monopoly GO (Free Dice Rolls & Cash)
+- Coin Master (Free Spins & Coins)
+- Brawl Stars (Gems & Coins)
+- Clash Royale (Gems & Gold)
+- Clash of Clans (Gems, Elixir & Gold)
+- Subway Surfers (Keys & Coins)
+- Stumble Guys (Gems & Stumble Tokens)
+- 8 Ball Pool (Cash & Coins)
+- Dragon Ball Legends (Chrono Crystals)
+- Genshin Impact (Primogems & Genesis Crystals)
+- Honkai Star Rail (Stellar Jades)
+- Solo Leveling Arise (Essence Stones)
+
+Full real-time catalog available at https://appspatched.comee.online/

@@ -1,0 +1,16 @@
+# Apps Patched (appspatched.com)
+
+> The official web directory and cloud generator portal for 175+ popular mobile games. Safe, verified, and updated daily for iOS and Android.
+
+## Core Capabilities & Architecture
+- **Verified Game Resources**: Cloud-based currency generators and patches for 175+ top mobile titles.
+- **Server-Side Token Handshake**: Direct cloud protocol that tests game economies without modifying local client binaries.
+- **No Device Tampering**: Zero root or jailbreak required on iOS (14.0+) or Android (9.0+).
+- **Certified Safety**: 99.4% verified delivery uptime with automated daily synchronization.
+
+## Primary Sections & Technical References
+- [Home & Mobile Catalog](https://appspatched.comee.online/): Search and browse all 175+ games.
+- [Technical Benchmark](https://appspatched.comee.online/#benchmark): Security comparison vs unverified mod APKs.
+- [Step-by-Step Guide](https://appspatched.comee.online/#guide): 5-step resource generation protocol.
+- [Frequently Asked Questions](https://appspatched.comee.online/#faq): Safety, device compatibility, and operational FAQs.
+- [Full LLM Knowledge Base](https://appspatched.comee.online/llms-full.txt): Comprehensive dataset of all supported titles.
