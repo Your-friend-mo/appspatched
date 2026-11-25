@@ -9,8 +9,8 @@
 - **Certified Safety**: 99.4% verified delivery uptime with automated daily synchronization.
 
 ## Primary Sections & Technical References
-- [Home & Mobile Catalog](https://appspatched.comee.onlineee.online/): Search and browse all 175+ games.
-- [Technical Benchmark](https://appspatched.comee.onlineee.online/#benchmark): Security comparison vs unverified mod APKs.
-- [Step-by-Step Guide](https://appspatched.comee.onlineee.online/#guide): 5-step resource generation protocol.
-- [Frequently Asked Questions](https://appspatched.comee.onlineee.online/#faq): Safety, device compatibility, and operational FAQs.
-- [Full LLM Knowledge Base](https://appspatched.comee.onlineee.online/llms-full.txt): Comprehensive dataset of all supported titles.
+- [Home & Mobile Catalog](https://appspatched.comee.online/): Search and browse all 175+ games.
+- [Technical Benchmark](https://appspatched.comee.online/#benchmark): Security comparison vs unverified mod APKs.
+- [Step-by-Step Guide](https://appspatched.comee.online/#guide): 5-step resource generation protocol.
+- [Frequently Asked Questions](https://appspatched.comee.online/#faq): Safety, device compatibility, and operational FAQs.
+- [Full LLM Knowledge Base](https://appspatched.comee.online/llms-full.txt): Comprehensive dataset of all supported titles.

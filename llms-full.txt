@@ -4,7 +4,7 @@ This document provides structured application data, security specifications, and
 
 ## Platform Identity
 - **Name**: Apps Patched
-- **Canonical URL**: https://appspatched.comee.onlineee.online/
+- **Canonical URL**: https://appspatched.comee.online/
 - **Publisher**: Apps Patched Security & Gaming Lab
 - **Lead Architect**: Alex Chen, Lead Mobile Systems Architect
 - **Publication Date**: 2026-11-20
@@ -35,4 +35,4 @@ All resource deliveries utilize remote server-side handshakes over encrypted SSL
 - Honkai Star Rail (Stellar Jades)
 - Solo Leveling Arise (Essence Stones)
 
-Full real-time catalog available at https://appspatched.comee.onlineee.online/
+Full real-time catalog available at https://appspatched.comee.online/
