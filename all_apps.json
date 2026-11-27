@@ -1,5 +1,677 @@
 [
   {
+    "id": 1001,
+    "name": "Monopoly GO!",
+    "image": "/images/monopoly-go.png",
+    "slug": "monopoly-go",
+    "primaryColor": "#e61e2d",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "monopoly-go.jpg",
+    "resources": [
+      {
+        "name": "Dice Rolls",
+        "icon": "monopoly-go-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Cash",
+        "icon": "monopoly-go-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Monopoly GO! Free Dice Rolls Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Unlock free unlimited Dice Rolls and Cash in Monopoly GO! 100% verified cloud generator working on iOS and Android. Safe, instant delivery today.",
+    "seoTags": [
+      "Monopoly GO! free Dice Rolls",
+      "Monopoly GO! Dice Rolls generator",
+      "Monopoly GO! unlimited Cash",
+      "how to get free Dice Rolls in Monopoly GO!",
+      "Monopoly GO! cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Dice Rolls in Monopoly GO!</h2><p>Our official verified generator delivers 100% ban-free Dice Rolls and Cash directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Board Game",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/monopoly-go.png"
+  },
+  {
+    "id": 1002,
+    "name": "Brawl Stars",
+    "image": "/images/brawl-stars.png",
+    "slug": "brawl-stars",
+    "primaryColor": "#f5b414",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "brawl-stars.jpg",
+    "resources": [
+      {
+        "name": "Gems",
+        "icon": "brawl-stars-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Coins",
+        "icon": "brawl-stars-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Brawl Stars Free Gems Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Get free unlimited Gems and Coins for Brawl Stars! 100% verified generator working on iOS and Android without root or jailbreak. Try it now!",
+    "seoTags": [
+      "Brawl Stars free Gems",
+      "Brawl Stars Gems generator",
+      "Brawl Stars unlimited Coins",
+      "how to get free Gems in Brawl Stars",
+      "Brawl Stars cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Gems in Brawl Stars</h2><p>Our official verified generator delivers 100% ban-free Gems and Coins directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Action / MOBA",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/brawl-stars.png"
+  },
+  {
+    "id": 1003,
+    "name": "Roblox",
+    "image": "/images/roblox.png",
+    "slug": "roblox",
+    "primaryColor": "#111116",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "roblox.jpg",
+    "resources": [
+      {
+        "name": "Robux",
+        "icon": "roblox-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Premium Passes",
+        "icon": "roblox-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Roblox Free Robux Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Claim free Robux with our 100% verified online generator for Roblox! Works seamlessly across iOS, Android, PC, and consoles. Instant delivery.",
+    "seoTags": [
+      "Roblox free Robux",
+      "Roblox Robux generator",
+      "Roblox unlimited Premium Passes",
+      "how to get free Robux in Roblox",
+      "Roblox cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Robux in Roblox</h2><p>Our official verified generator delivers 100% ban-free Robux and Premium Passes directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Sandbox / Simulation",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/roblox.png"
+  },
+  {
+    "id": 1004,
+    "name": "Genshin Impact",
+    "image": "/images/genshin-impact.png",
+    "slug": "genshin-impact",
+    "primaryColor": "#1e46a0",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "genshin-impact.jpg",
+    "resources": [
+      {
+        "name": "Primogems",
+        "icon": "genshin-impact-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Genesis Crystals",
+        "icon": "genshin-impact-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Genshin Impact Free Primogems Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Generate free Primogems and Genesis Crystals for Genshin Impact! Safe cloud handshake protocol, zero ban guarantee on iOS, Android, and PC.",
+    "seoTags": [
+      "Genshin Impact free Primogems",
+      "Genshin Impact Primogems generator",
+      "Genshin Impact unlimited Genesis Crystals",
+      "how to get free Primogems in Genshin Impact",
+      "Genshin Impact cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Primogems in Genshin Impact</h2><p>Our official verified generator delivers 100% ban-free Primogems and Genesis Crystals directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Action RPG",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/genshin-impact.png"
+  },
+  {
+    "id": 1005,
+    "name": "Clash of Clans",
+    "image": "/images/clash-of-clans.png",
+    "slug": "clash-of-clans",
+    "primaryColor": "#d28c14",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "clash-of-clans.jpg",
+    "resources": [
+      {
+        "name": "Gems",
+        "icon": "clash-of-clans-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Gold & Elixir",
+        "icon": "clash-of-clans-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Clash of Clans Free Gems Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Unlock free unlimited Gems, Gold, and Elixir for Clash of Clans! 100% working cloud generator updated every 24 hours for iOS and Android.",
+    "seoTags": [
+      "Clash of Clans free Gems",
+      "Clash of Clans Gems generator",
+      "Clash of Clans unlimited Gold & Elixir",
+      "how to get free Gems in Clash of Clans",
+      "Clash of Clans cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Gems in Clash of Clans</h2><p>Our official verified generator delivers 100% ban-free Gems and Gold & Elixir directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Strategy",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/clash-of-clans.png"
+  },
+  {
+    "id": 1006,
+    "name": "Clash Royale",
+    "image": "/images/clash-royale.png",
+    "slug": "clash-royale",
+    "primaryColor": "#2878dc",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "clash-royale.jpg",
+    "resources": [
+      {
+        "name": "Gems",
+        "icon": "clash-royale-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Pass Royale",
+        "icon": "clash-royale-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Clash Royale Free Gems Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Generate free Gems and unlock Pass Royale rewards in Clash Royale! 100% verified tool working smoothly on iOS and Android with zero bans.",
+    "seoTags": [
+      "Clash Royale free Gems",
+      "Clash Royale Gems generator",
+      "Clash Royale unlimited Pass Royale",
+      "how to get free Gems in Clash Royale",
+      "Clash Royale cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Gems in Clash Royale</h2><p>Our official verified generator delivers 100% ban-free Gems and Pass Royale directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Real-Time Strategy",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/clash-royale.png"
+  },
+  {
+    "id": 1007,
+    "name": "Coin Master",
+    "image": "/images/coin-master.png",
+    "slug": "coin-master",
+    "primaryColor": "#e6508c",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "coin-master.jpg",
+    "resources": [
+      {
+        "name": "Spins",
+        "icon": "coin-master-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Coins",
+        "icon": "coin-master-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Coin Master Free Spins Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Get free daily Spins and unlimited Coins in Coin Master! Official verified cloud generator for iOS and Android. No human verification loop.",
+    "seoTags": [
+      "Coin Master free Spins",
+      "Coin Master Spins generator",
+      "Coin Master unlimited Coins",
+      "how to get free Spins in Coin Master",
+      "Coin Master cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Spins in Coin Master</h2><p>Our official verified generator delivers 100% ban-free Spins and Coins directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Casual / Adventure",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/coin-master.png"
+  },
+  {
+    "id": 1008,
+    "name": "Garena Free Fire",
+    "image": "/images/free-fire.png",
+    "slug": "free-fire",
+    "primaryColor": "#dc3c14",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "free-fire.jpg",
+    "resources": [
+      {
+        "name": "Diamonds",
+        "icon": "free-fire-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Elite Pass",
+        "icon": "free-fire-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Garena Free Fire Free Diamonds Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Claim free Diamonds and Elite Pass for Garena Free Fire! 100% verified cloud injection generator for iOS and Android with anti-ban shield.",
+    "seoTags": [
+      "Garena Free Fire free Diamonds",
+      "Garena Free Fire Diamonds generator",
+      "Garena Free Fire unlimited Elite Pass",
+      "how to get free Diamonds in Garena Free Fire",
+      "Garena Free Fire cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Diamonds in Garena Free Fire</h2><p>Our official verified generator delivers 100% ban-free Diamonds and Elite Pass directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Battle Royale",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/free-fire.png"
+  },
+  {
+    "id": 1009,
+    "name": "PUBG Mobile",
+    "image": "/images/pubg-mobile.png",
+    "slug": "pubg-mobile",
+    "primaryColor": "#f08c0a",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "pubg-mobile.jpg",
+    "resources": [
+      {
+        "name": "Unknown Cash (UC)",
+        "icon": "pubg-mobile-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Royale Pass",
+        "icon": "pubg-mobile-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "PUBG Mobile Free Unknown Cash (UC) Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Generate free Unknown Cash (UC) and Royale Pass in PUBG Mobile! 100% verified cloud server delivery for iOS and Android. Fast and secure.",
+    "seoTags": [
+      "PUBG Mobile free Unknown Cash (UC)",
+      "PUBG Mobile Unknown Cash (UC) generator",
+      "PUBG Mobile unlimited Royale Pass",
+      "how to get free Unknown Cash (UC) in PUBG Mobile",
+      "PUBG Mobile cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Unknown Cash (UC) in PUBG Mobile</h2><p>Our official verified generator delivers 100% ban-free Unknown Cash (UC) and Royale Pass directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Battle Royale",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/pubg-mobile.png"
+  },
+  {
+    "id": 1010,
+    "name": "Call of Duty Warzone Mobile",
+    "image": "/images/cod-warzone-mobile.png",
+    "slug": "cod-warzone-mobile",
+    "primaryColor": "#1e232d",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "cod-warzone-mobile.jpg",
+    "resources": [
+      {
+        "name": "COD Points (CP)",
+        "icon": "cod-warzone-mobile-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Battle Pass",
+        "icon": "cod-warzone-mobile-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Call of Duty Warzone Mobile Free COD Points (CP) Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Unlock free COD Points (CP) in Call of Duty: Warzone Mobile! Official verified server handshake tool for iOS and Android with zero bans.",
+    "seoTags": [
+      "Call of Duty Warzone Mobile free COD Points (CP)",
+      "Call of Duty Warzone Mobile COD Points (CP) generator",
+      "Call of Duty Warzone Mobile unlimited Battle Pass",
+      "how to get free COD Points (CP) in Call of Duty Warzone Mobile",
+      "Call of Duty Warzone Mobile cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free COD Points (CP) in Call of Duty Warzone Mobile</h2><p>Our official verified generator delivers 100% ban-free COD Points (CP) and Battle Pass directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "First-Person Shooter",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/cod-warzone-mobile.png"
+  },
+  {
+    "id": 1011,
+    "name": "Honkai: Star Rail",
+    "image": "/images/honkai-star-rail.png",
+    "slug": "honkai-star-rail",
+    "primaryColor": "#462882",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "honkai-star-rail.jpg",
+    "resources": [
+      {
+        "name": "Stellar Jades",
+        "icon": "honkai-star-rail-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Star Rail Passes",
+        "icon": "honkai-star-rail-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Honkai: Star Rail Free Stellar Jades Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Generate free Stellar Jades and Star Rail Passes for Honkai: Star Rail! 100% verified cloud generator working on iOS, Android, and PC.",
+    "seoTags": [
+      "Honkai: Star Rail free Stellar Jades",
+      "Honkai: Star Rail Stellar Jades generator",
+      "Honkai: Star Rail unlimited Star Rail Passes",
+      "how to get free Stellar Jades in Honkai: Star Rail",
+      "Honkai: Star Rail cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Stellar Jades in Honkai: Star Rail</h2><p>Our official verified generator delivers 100% ban-free Stellar Jades and Star Rail Passes directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Turn-Based RPG",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/honkai-star-rail.png"
+  },
+  {
+    "id": 1012,
+    "name": "Pok\u00e9mon GO",
+    "image": "/images/pokemon-go.png",
+    "slug": "pokemon-go",
+    "primaryColor": "#28a0dc",
+    "secondaryColor": "#8b5cf6",
+    "network": "AdBlueMedia",
+    "background": "pokemon-go.jpg",
+    "resources": [
+      {
+        "name": "Pok\u00e9Coins",
+        "icon": "pokemon-go-1.png",
+        "amounts": [
+          5000,
+          10000,
+          25000,
+          50000
+        ],
+        "min": 5000,
+        "max": 50000
+      },
+      {
+        "name": "Incubators & Items",
+        "icon": "pokemon-go-2.png",
+        "amounts": [
+          5000,
+          25000,
+          50000,
+          100000
+        ],
+        "min": 5000,
+        "max": 100000
+      }
+    ],
+    "devices": [
+      "iOS",
+      "Android"
+    ],
+    "seoTitle": "Pok\u00e9mon GO Free Pok\u00e9Coins Generator 2026 \u2014 AppsPatched",
+    "seoDescription": "Get free Pok\u00e9Coins and premium raid passes in Pok\u00e9mon GO! 100% verified generator working smoothly on iOS and Android without root or spoof.",
+    "seoTags": [
+      "Pok\u00e9mon GO free Pok\u00e9Coins",
+      "Pok\u00e9mon GO Pok\u00e9Coins generator",
+      "Pok\u00e9mon GO unlimited Incubators & Items",
+      "how to get free Pok\u00e9Coins in Pok\u00e9mon GO",
+      "Pok\u00e9mon GO cheats 2026"
+    ],
+    "seoContent": "<h2>How to Get Free Pok\u00e9Coins in Pok\u00e9mon GO</h2><p>Our official verified generator delivers 100% ban-free Pok\u00e9Coins and Incubators & Items directly to your game account without requiring root, jailbreak, or account password.</p>",
+    "categoryId": null,
+    "category": "Augmented Reality",
+    "skipLocker": false,
+    "createdAt": "2026-11-27T08:00:00.000Z",
+    "updatedAt": "2026-11-27T08:00:00.000Z",
+    "local_image": "/images/pokemon-go.png"
+  },
+  {
     "id": 1,
     "name": "WarCraft Rumble",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7a/dc/f87adcde-00bd-f1a0-1069-03566cf5b7f7/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/200x200ia-75.webp",

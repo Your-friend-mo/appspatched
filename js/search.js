@@ -3,8 +3,8 @@
   'use strict';
 
   function initSearch() {
-    const input = document.getElementById('searchInput');
-    const grid = document.getElementById('appsGrid');
+    const input = document.getElementById('searchInput') || document.getElementById('search-input');
+    const grid = document.getElementById('appsGrid') || document.getElementById('apps-grid');
     if (!input || !grid) return;
 
     const cards = Array.from(grid.querySelectorAll('a.group'));
